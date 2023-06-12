@@ -1,0 +1,11 @@
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe.config
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\bin\Debug\Banco de dados.pdb
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.AssemblyReference.cache
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco_de_dados.Form1.resources
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco_de_dados.Properties.Resources.resources
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.GenerateResource.cache
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.CoreCompileInputs.cache
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.exe
+C:\Users\pedro.gmoreira1\source\repos\Banco de dados\Banco de dados\obj\Debug\Banco de dados.pdb
